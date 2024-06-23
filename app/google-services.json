@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721171159963",
+    "project_id": "authapp-eeb7c",
+    "storage_bucket": "authapp-eeb7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721171159963:android:e1ea900b10115dd7ebdf3e",
+        "android_client_info": {
+          "package_name": "com.kifee.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSHUqwwthuAFwAxvHYaRACkOCQJkAyaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
